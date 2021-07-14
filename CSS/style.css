@@ -4,7 +4,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .openning-section{
-    height: 677px;
+    min-height: 677px;
     background-color: #2D25A0;
     padding-top: 20px;
 }
