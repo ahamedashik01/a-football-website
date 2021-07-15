@@ -8,6 +8,7 @@ body{
     background-color: #2D25A0;
     padding-top: 20px;
 }
+
 /* header styles */
 .bars{
     display: none;
@@ -58,6 +59,7 @@ body{
     margin-left: 10px;
     color: #FFFFFF;
 }
+
 /* introduction area styles */
 .introduction-area{
     width: 80%;
@@ -89,6 +91,7 @@ body{
     background-color: transparent;
     border: 3px solid #E02C6D;
 }
+
 /* simple transition and trasform added */
 .intro-image img{
     width: 556px;
@@ -99,6 +102,7 @@ body{
     cursor: pointer;
     transform: rotateY(180deg);
 }
+
 /* player gallery */
 .gallery{
     margin-bottom: 100px;
@@ -117,7 +121,7 @@ body{
 }
 .player-card{
     width: 330px;
-    height: 474px;
+    height: auto;
     padding: 15px 15px 33px 15px;
     transition-duration: 0.5s;
 }
@@ -140,6 +144,7 @@ body{
     font-size: 16px;
     line-height: 26px;
 }
+
 /* highlights section styles */
 .highlight-section{
     width: 80%;
@@ -187,6 +192,7 @@ body{
 .highlight-image img:hover{
     transform: scale(1.1);
 }
+
 /* award section styles */
 .award-section{
     width: 80%;
@@ -271,6 +277,7 @@ body{
     background-color: transparent;
     border: 3px solid #E02C6D;
 }
+
 /* footer section style */
 footer{
     width: 80%;
